@@ -3,7 +3,7 @@
 
 **`Full-Stack Software Engineer`**
 
-I am Loveth, Junior Full-Stack Software Engineer with a background in UX/UI design focused on delivering high-quality and well-crafted software products with latest technologies and best practices in software development that meet the needs and expectations of users. .    
+I am Loveth, Junior Full-Stack Software Engineer with a background in UX/UI design focused on delivering high-quality and well-crafted software products with latest technologies and best practices in software development that meet the needs and expectations of users. 
 
 ---
 
