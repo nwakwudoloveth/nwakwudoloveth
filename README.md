@@ -3,7 +3,7 @@
 
 **`Full-Stack Software Engineer`**
 
-I am Loveth, Full-Stack Software Engineer with a background in UX/UI design focused on delivering high-quality and well-crafted software products with latest technologies and best practices in software development that meet the needs and expectations of users. .    
+I am Loveth, Junior Full-Stack Software Engineer with a background in UX/UI design focused on delivering high-quality and well-crafted software products with latest technologies and best practices in software development that meet the needs and expectations of users. .    
 
 ---
 
@@ -18,10 +18,11 @@ I am Loveth, Full-Stack Software Engineer with a background in UX/UI design focu
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
  
+
                    
 <br />
 
